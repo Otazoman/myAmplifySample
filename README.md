@@ -16,7 +16,7 @@ Database DynamoDB
 $ git clone https://github.com/Otazoman/myAmplifySample.git
 
 $ npm install -g @aws-amplify/cli
-$ cd myapp/
+$ cd myAmplifySample
 
 $ npm install aws-amplify @aws-amplify/ui-react
 $ npm install @mui/x-date-pickers
