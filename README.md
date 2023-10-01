@@ -13,7 +13,7 @@ Database DynamoDB
 ## usage
 
 ```
-$ git clone https://github.com/Otazoman/myAmplify_sample.git
+$ git clone https://github.com/Otazoman/myAmplifySample.git
 
 $ npm install -g @aws-amplify/cli
 $ cd myapp/
