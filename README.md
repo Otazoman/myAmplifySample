@@ -2,7 +2,9 @@
 
 ## description
 
-This is Amplify's todo list app with authentication.
+This is Amplify's todo list app with authentication.  
+refer:  
+<https://qiita.com/minamoto-shunsuke/items/633e5bdd32856e5cc7f4?fbclid=IwAR1PQ3npmnZB1h8q9kr_2-AIEYBOLwOn2Vk7Zc69HYdTEgRYQxDH7PBThZc>
 
 ## environment
 
